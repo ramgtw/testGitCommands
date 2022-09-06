@@ -1,7 +1,2 @@
 Hello
 World
-Test
-Commit
-Was
-Done
-Globally
